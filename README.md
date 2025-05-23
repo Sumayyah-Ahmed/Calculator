@@ -1,1 +1,2 @@
 # Calculator
+I created this calculator using HTML, CSS, and JavaScript. I structured the interface with HTML, styled it to look sleek and modern using CSS, and brought it to life by implementing the core functionality with JavaScript. This project not only demonstrates my ability to design and develop interactive web tools but also showcases the seamless integration of these three essential web technologies.
