@@ -4,4 +4,4 @@ I created this calculator using HTML, CSS, and JavaScript. I structured the inte
 # Live Demo
 https://sumayyah-ahmed.github.io/Calculator/
 
-![Henna Website Screenshot](images/calculator.png)
+![Calculator Website Screenshot](calculator.png)
